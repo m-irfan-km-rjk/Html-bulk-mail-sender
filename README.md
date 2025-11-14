@@ -1,8 +1,3 @@
-Here is a clean, professional **GitHub README.md** for your email-sending GUI project.
-You can copy–paste this directly into your repository.
-
----
-
 # 📧 Bulk Email Sender (with HTML Templates, Placeholders & Attachments)
 
 A Python-based GUI application for sending personalized bulk emails using **CSV data**, **HTML templates**, and **file attachments**.
