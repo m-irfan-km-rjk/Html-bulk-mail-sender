@@ -51,13 +51,6 @@ Displays success/failure logs for each email in the terminal.
 * **email.mime** – HTML email formatting
 
 ---
-
-## 📸 Screenshots
-
-👉 *(Add your screenshots here if you want)*
-
----
-
 ## 📦 Installation
 
 ### 1️⃣ Clone the repo
